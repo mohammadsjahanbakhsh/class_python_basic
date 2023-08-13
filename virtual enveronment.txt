@@ -1,0 +1,4 @@
+Set-Executionpolicy RemoteSigned -Scope Process  برداشتن محدودیت 	
+python -m venv test  			        testساخت محیط مجازی	با اسم 
+.\test\Scripts\activate 		    	فعال کردن محیط مجازی
+deactivate				          	    غیر فعال کردن	
